@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CrudPaises.WinForms/CrudPaises.WinForms.csproj" Id="42f87d71-ba28-4cb4-a1ee-9e12e4edf37e" />
+  <Project Path="CrudPaises/CrudPaises.csproj" />
+</Solution>
